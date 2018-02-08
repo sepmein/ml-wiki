@@ -1,1 +1,4 @@
 # Learning Rate Decay
+
+definition:
+
